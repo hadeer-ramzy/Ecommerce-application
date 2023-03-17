@@ -1,0 +1,15 @@
+C:\Users\Master\source\repos\E-Commerce\E-Commerce.DAL\bin\Debug\net5.0\E-Commerce.DAL.deps.json
+C:\Users\Master\source\repos\E-Commerce\E-Commerce.DAL\bin\Debug\net5.0\E-Commerce.DAL.runtimeconfig.json
+C:\Users\Master\source\repos\E-Commerce\E-Commerce.DAL\bin\Debug\net5.0\E-Commerce.DAL.runtimeconfig.dev.json
+C:\Users\Master\source\repos\E-Commerce\E-Commerce.DAL\bin\Debug\net5.0\E-Commerce.DAL.dll
+C:\Users\Master\source\repos\E-Commerce\E-Commerce.DAL\bin\Debug\net5.0\E-Commerce.DAL.pdb
+C:\Users\Master\source\repos\E-Commerce\E-Commerce.DAL\obj\Debug\net5.0\E-Commerce.DAL.csproj.AssemblyReference.cache
+C:\Users\Master\source\repos\E-Commerce\E-Commerce.DAL\obj\Debug\net5.0\E-Commerce.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\source\repos\E-Commerce\E-Commerce.DAL\obj\Debug\net5.0\E-Commerce.DAL.AssemblyInfoInputs.cache
+C:\Users\Master\source\repos\E-Commerce\E-Commerce.DAL\obj\Debug\net5.0\E-Commerce.DAL.AssemblyInfo.cs
+C:\Users\Master\source\repos\E-Commerce\E-Commerce.DAL\obj\Debug\net5.0\E-Commerce.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\E-Commerce\E-Commerce.DAL\obj\Debug\net5.0\E-Commerce.DAL.dll
+C:\Users\Master\source\repos\E-Commerce\E-Commerce.DAL\obj\Debug\net5.0\refint\E-Commerce.DAL.dll
+C:\Users\Master\source\repos\E-Commerce\E-Commerce.DAL\obj\Debug\net5.0\E-Commerce.DAL.pdb
+C:\Users\Master\source\repos\E-Commerce\E-Commerce.DAL\obj\Debug\net5.0\E-Commerce.DAL.genruntimeconfig.cache
+C:\Users\Master\source\repos\E-Commerce\E-Commerce.DAL\obj\Debug\net5.0\ref\E-Commerce.DAL.dll

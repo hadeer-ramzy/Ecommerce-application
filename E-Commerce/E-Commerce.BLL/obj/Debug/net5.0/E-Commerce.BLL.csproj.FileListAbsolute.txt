@@ -1,0 +1,15 @@
+C:\Users\Master\source\repos\E-Commerce\E-Commerce.BLL\bin\Debug\net5.0\E-Commerce.BLL.deps.json
+C:\Users\Master\source\repos\E-Commerce\E-Commerce.BLL\bin\Debug\net5.0\E-Commerce.BLL.dll
+C:\Users\Master\source\repos\E-Commerce\E-Commerce.BLL\bin\Debug\net5.0\E-Commerce.BLL.pdb
+C:\Users\Master\source\repos\E-Commerce\E-Commerce.BLL\bin\Debug\net5.0\E-Commerce.DAL.dll
+C:\Users\Master\source\repos\E-Commerce\E-Commerce.BLL\bin\Debug\net5.0\E-Commerce.DAL.pdb
+C:\Users\Master\source\repos\E-Commerce\E-Commerce.BLL\obj\Debug\net5.0\E-Commerce.BLL.csproj.AssemblyReference.cache
+C:\Users\Master\source\repos\E-Commerce\E-Commerce.BLL\obj\Debug\net5.0\E-Commerce.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\source\repos\E-Commerce\E-Commerce.BLL\obj\Debug\net5.0\E-Commerce.BLL.AssemblyInfoInputs.cache
+C:\Users\Master\source\repos\E-Commerce\E-Commerce.BLL\obj\Debug\net5.0\E-Commerce.BLL.AssemblyInfo.cs
+C:\Users\Master\source\repos\E-Commerce\E-Commerce.BLL\obj\Debug\net5.0\E-Commerce.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\E-Commerce\E-Commerce.BLL\obj\Debug\net5.0\E-Commerce.BLL.csproj.CopyComplete
+C:\Users\Master\source\repos\E-Commerce\E-Commerce.BLL\obj\Debug\net5.0\E-Commerce.BLL.dll
+C:\Users\Master\source\repos\E-Commerce\E-Commerce.BLL\obj\Debug\net5.0\refint\E-Commerce.BLL.dll
+C:\Users\Master\source\repos\E-Commerce\E-Commerce.BLL\obj\Debug\net5.0\E-Commerce.BLL.pdb
+C:\Users\Master\source\repos\E-Commerce\E-Commerce.BLL\obj\Debug\net5.0\ref\E-Commerce.BLL.dll

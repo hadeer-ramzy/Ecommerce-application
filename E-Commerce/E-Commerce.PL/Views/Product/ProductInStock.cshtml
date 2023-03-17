@@ -1,0 +1,31 @@
+﻿@inject IProductRepository productRepo
+
+<select class="form-control" id="productid">
+    <option disabled selected>Choose one...</option>
+    @foreach(var item in await productRepo.GetAll())
+    {
+        <option value="@item.Id">@item.Name</option>
+    }
+</select>
+<button id="btnclick" class="btn btn-primary" type="submit">Check</button>
+
+
+<div id="result" style="width: 50%; height: 200px; background-color:darksalmon;">
+
+</div>
+<script src="~/src/scripts/jquery.min.js"></script>
+<script>
+    $(function () {
+        $("#btnclick").click(function () {
+            var productId = $("#productid").val();
+            $.ajax({
+                type: "POST",
+                url: "/Product/ProductInStock",
+                data: { id: productId },
+                success: function (res) {
+                    $("#result").append("<h4>" + res + "</h4>");
+                }
+            });
+        });
+    });
+</script>
